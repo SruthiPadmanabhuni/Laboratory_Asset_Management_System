@@ -1,0 +1,9 @@
+.bgfooter{
+    background-color:white;
+    text-align: center;
+    font-weight:200;
+    height: 20px; 
+    padding: 10px 20px;
+    margin: 0; 
+    box-sizing: border-box;
+}

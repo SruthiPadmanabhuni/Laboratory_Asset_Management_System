@@ -1,0 +1,25 @@
+.homebg{
+    background-color: #E8E8E8;
+    height: 50vw;
+    width: 100vw;
+    text-align: justify;
+}
+
+.lpuimg{
+    height: 330px;
+    width: 480px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 50px;
+}
+
+.head{
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.content{
+    font-weight: 500;
+    font-size: 15px;
+}
